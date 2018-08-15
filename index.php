@@ -3,7 +3,7 @@
 </head>
 <body>
 <div id="base-page" class="container-fluid">
-	hello
+	<?php the_content(); ?>
 </div> <!-- end main container-fluid -->
 </body>
 </html>
