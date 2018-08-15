@@ -1,3 +1,4 @@
+<?php 
 // Include custom navwalker
 require_once('bs4navwalker.php');
 
