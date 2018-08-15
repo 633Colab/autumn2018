@@ -14,5 +14,3 @@
     <link href="product.css" rel="stylesheet">
   </head>
   <body>
-
-  <?php get_template_part('template-parts/navs/nav', 'top'); ?>
