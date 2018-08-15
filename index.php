@@ -1,5 +1,4 @@
-<?php get_header();?>
+
 <div id="base-page" class="container-fluid">
-	<?php the_content();?>
+	hello
 </div> <!-- end main container-fluid -->
-<?php get_footer(); ?>
