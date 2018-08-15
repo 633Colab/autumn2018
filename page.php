@@ -1,4 +1,4 @@
-<?php get_header();?>
+
 
 regular page.php
 

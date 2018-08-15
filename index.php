@@ -1,9 +1,5 @@
-<html>
-<head>
-</head>
-<body>
+<?php get_header();?>
 <div id="base-page" class="container-fluid">
 	<?php the_content(); ?>
 </div> <!-- end main container-fluid -->
-</body>
-</html>
+<?php get_footer(); ?>
