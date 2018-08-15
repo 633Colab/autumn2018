@@ -11,7 +11,7 @@
      'container_id'    => 'main-nav',
      'container_class' => 'collapse navbar-collapse',
      'menu_id'         => false,
-     'menu_class'      => 'navbar-nav mr-auto justify-content-end',
+     'menu_class'      => 'navbar-nav mr-auto',
      'depth'           => 2,
      'fallback_cb'     => 'bs4navwalker::fallback',
      'walker'          => new bs4navwalker()
