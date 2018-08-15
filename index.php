@@ -1,6 +1,6 @@
-<?php wp_header();?>
+<?php get_header();?>
 <div class="container-fluid">
 	<?php the_content();
 ?>
 </div> <!-- end main container-fluid -->
-<?php wp_footer(); ?>
+<?php get_footer(); ?>
