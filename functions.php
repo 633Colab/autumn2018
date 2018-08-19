@@ -6,7 +6,9 @@ function colab_theme_styles() {
     wp_enqueue_style('autum2018');
 }
 
+
 add_action( 'wp_enqueue_scripts', 'colab_theme_styles' );  
+
 // Include custom navwalker
 require_once('bs4navwalker.php');
 
