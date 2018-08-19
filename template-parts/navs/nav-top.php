@@ -9,7 +9,7 @@
      'theme_location'  => 'top',
      'container'       => 'div',
      'container_id'    => 'main-nav',
-     'container_class' => 'collapse navbar-collapse',
+     'container_class' => 'container',
      'menu_id'         => 'navbarResponsive',
      'menu_class'      => 'navbar-nav mr-auto',
      'depth'           => 2,
