@@ -13,6 +13,7 @@
     <!-- Custom styles for this template -->
     <!--<link href="product.css" rel="stylesheet">-->
     <!-- <link href="css/autumn2018.css" rel="stylesheet"> -->
+    <?php wp_head(); ?>
   </head>
   <body>
   <?php get_template_part('template-parts/navs/nav', 'top'); ?>
