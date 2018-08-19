@@ -9,6 +9,7 @@ function autumn2018_styles() {
 
 add_action( 'wp_enqueue_scripts', 'autumn2018_styles' );  
 
+
 // Include custom navwalker
 require_once('bs4navwalker.php');
 
