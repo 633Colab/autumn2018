@@ -6,6 +6,8 @@
     <?php get_template_part('template-parts/sections/section','icon'); ?>
 
     <?php get_template_part('template-parts/sections/section','portfolio'); ?>
+
+    <?php get_template_part('template-parts/sections/section','timeline'); ?>
 </div>
 
 <?php get_footer(); ?>
