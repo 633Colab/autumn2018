@@ -8,6 +8,11 @@
     <?php get_template_part('template-parts/sections/section','portfolio'); ?>
 
     <?php get_template_part('template-parts/sections/section','timeline'); ?>
+
+    <?php get_template_part('template-parts/sections/section','team'); ?>
+
+    <?php get_template_part('template-parts/sections/section','contact'); ?>
+
 </div>
 
 <?php get_footer(); ?>
