@@ -1,6 +1,6 @@
 
     <!-- Header -->
-    <header class="masthead">
+    <header class="masthead" style="background-image: url('images/header-bg.jpg');">
       <div class="container">
         <div class="intro-text">
           <div class="intro-lead-in">Welcome To Our Studio!</div>
